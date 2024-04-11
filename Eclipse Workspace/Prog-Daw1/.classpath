@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="src" path="1º-2º-Trimestres"/>
+	<classpathentry kind="src" path="UT9_Herencia"/>
+	<classpathentry kind="src" path="UT10_Excepciones"/>
+	<classpathentry kind="src" path="UT11_Ficheros"/>
+	<classpathentry kind="src" path="UT12_Estructuras_Dinamicas"/>
+	<classpathentry kind="src" path="Jaxb"/>
+	<classpathentry kind="src" path="Listas"/>
+	<classpathentry kind="src" path="UT_GUI"/>
+	<classpathentry kind="src" path="Repaso_3_Trimestre"/>
+	<classpathentry kind="src" path="MySQL"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-17">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="D:/Usuarios/Neoarmadam/OneDrive - Educacyl/Daw/Programacion/GitHub/Prog_1Daw/Eclipse Workspace/APIs/Jaxb/codemodel.jar"/>
+	<classpathentry kind="lib" path="D:/Usuarios/Neoarmadam/OneDrive - Educacyl/Daw/Programacion/GitHub/Prog_1Daw/Eclipse Workspace/APIs/Jaxb/dtd-parser.jar"/>
+	<classpathentry kind="lib" path="D:/Usuarios/Neoarmadam/OneDrive - Educacyl/Daw/Programacion/GitHub/Prog_1Daw/Eclipse Workspace/APIs/Jaxb/FastInfoset.jar"/>
+	<classpathentry kind="lib" path="D:/Usuarios/Neoarmadam/OneDrive - Educacyl/Daw/Programacion/GitHub/Prog_1Daw/Eclipse Workspace/APIs/Jaxb/istack-commons-runtime.jar"/>
+	<classpathentry kind="lib" path="D:/Usuarios/Neoarmadam/OneDrive - Educacyl/Daw/Programacion/GitHub/Prog_1Daw/Eclipse Workspace/APIs/Jaxb/istack-commons-tools.jar"/>
+	<classpathentry kind="lib" path="D:/Usuarios/Neoarmadam/OneDrive - Educacyl/Daw/Programacion/GitHub/Prog_1Daw/Eclipse Workspace/APIs/Jaxb/javax.activation-api.jar"/>
+	<classpathentry kind="lib" path="D:/Usuarios/Neoarmadam/OneDrive - Educacyl/Daw/Programacion/GitHub/Prog_1Daw/Eclipse Workspace/APIs/Jaxb/jaxb-api.jar"/>
+	<classpathentry kind="lib" path="D:/Usuarios/Neoarmadam/OneDrive - Educacyl/Daw/Programacion/GitHub/Prog_1Daw/Eclipse Workspace/APIs/Jaxb/jaxb-jxc.jar"/>
+	<classpathentry kind="lib" path="D:/Usuarios/Neoarmadam/OneDrive - Educacyl/Daw/Programacion/GitHub/Prog_1Daw/Eclipse Workspace/APIs/Jaxb/jaxb-runtime.jar"/>
+	<classpathentry kind="lib" path="D:/Usuarios/Neoarmadam/OneDrive - Educacyl/Daw/Programacion/GitHub/Prog_1Daw/Eclipse Workspace/APIs/Jaxb/jaxb-xjc.jar"/>
+	<classpathentry kind="lib" path="D:/Usuarios/Neoarmadam/OneDrive - Educacyl/Daw/Programacion/GitHub/Prog_1Daw/Eclipse Workspace/APIs/Jaxb/relaxng-datatype.jar"/>
+	<classpathentry kind="lib" path="D:/Usuarios/Neoarmadam/OneDrive - Educacyl/Daw/Programacion/GitHub/Prog_1Daw/Eclipse Workspace/APIs/Jaxb/rngom.jar"/>
+	<classpathentry kind="lib" path="D:/Usuarios/Neoarmadam/OneDrive - Educacyl/Daw/Programacion/GitHub/Prog_1Daw/Eclipse Workspace/APIs/Jaxb/stax-ex.jar"/>
+	<classpathentry kind="lib" path="D:/Usuarios/Neoarmadam/OneDrive - Educacyl/Daw/Programacion/GitHub/Prog_1Daw/Eclipse Workspace/APIs/Jaxb/txw2.jar"/>
+	<classpathentry kind="lib" path="D:/Usuarios/Neoarmadam/OneDrive - Educacyl/Daw/Programacion/GitHub/Prog_1Daw/Eclipse Workspace/APIs/Jaxb/xsom.jar"/>
+	<classpathentry kind="lib" path="D:/Usuarios/Neoarmadam/OneDrive - Educacyl/Daw/Programacion/GitHub/Prog_1Daw/Eclipse Workspace/APIs/mysql-connector-j-8.0.33.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

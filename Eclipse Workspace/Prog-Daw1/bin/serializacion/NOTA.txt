@@ -1,0 +1,3 @@
+Si se quieren añadir objetos al final del fichero, no es suficiente con hacer el FileOutputStream(fich,true);
+por que el ObjectOutputStream escribe una cabecera en el fichero hay que crear una clase que herede de ObjectOutputStream
+ y que no escriba la cabecera ejemploen MiObjectOutputStream
